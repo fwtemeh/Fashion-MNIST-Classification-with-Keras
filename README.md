@@ -43,7 +43,7 @@
 
 نمودار زیر روند تغییر دقت مدل را در طول آموزش نشان می‌دهد:
 
-![Training Metrics](images/training_metrics.png)
+![Training Metrics](images/training_accuracy.png)
 
 ## نتایج مدل
 
